@@ -4,3 +4,7 @@
 
 this is paragraph
 
+**bold**
+
+
+__italics__
